@@ -1,0 +1,288 @@
+/* <style scoped> */
+.mrg {
+  margin: 1rem;
+}
+body,
+html,
+#root,
+#temp {
+  /* initiation */
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.req {
+  padding: 1rem;
+  border: 1px lightgray solid;
+  border-radius: 1rem;
+  margin: 1rem;
+}
+
+.nav {
+  /* row */
+  text-align: center;
+  position: relative;
+  height: 80px;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  margin: 0;
+  padding: 0;
+}
+
+#container {
+  /* rootdiv */
+  background: white;
+  margin: 0 auto;
+  border-right: lightgray 3px solid;
+  border-left: lightgray 3px solid;
+  border-bottom: lightgray 3px solid;
+  max-width: 60rem;
+  display: flex;
+  flex-flow: column;
+  height: 100%;
+  border-radius: 15px;
+}
+hr {
+  margin: 1rem;
+}
+.icon {
+  display: inline-block;
+  height: 80px;
+  margin-bottom: 10px;
+}
+
+.button {
+  /* columns */
+  margin: 0;
+  padding: 0;
+  height: 103px;
+  background: white;
+  color: black;
+  font-size: 1rem;
+  border-bottom: rgb(236, 236, 236) 3px solid;
+  transition: border-bottom 0.3s, color 0.3s;
+}
+.button:hover {
+  color: rgb(155, 155, 155);
+  border-bottom: rgb(90, 90, 90) 3px solid;
+}
+#buttontext {
+  display: inline-block;
+  height: 80px;
+  width: 80px;
+  margin: 10px;
+  vertical-align: middle;
+}
+
+.imgdoctor {
+  background-image: url("./1.png");
+}
+.imgpharmacy {
+  background-image: url("./2.png");
+}
+.imglab {
+  background-image: url("./3.png");
+}
+
+.alert {
+  margin: 2rem 2rem;
+}
+/* </style> */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* <style scoped> */
+.mrg {
+  margin: 1rem;
+}
+body,
+html,
+#root,
+#temp {
+  /* initiation */
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.req {
+  padding: 1rem;
+  border: 1px lightgray solid;
+  border-radius: 1rem;
+  margin: 1rem;
+}
+
+.nav {
+  /* row */
+  text-align: center;
+  position: relative;
+  height: 80px;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  margin: 0;
+  padding: 0;
+}
+
+#container {
+  /* rootdiv */
+  background: white;
+  margin: 0 auto;
+  border-right: lightgray 3px solid;
+  border-left: lightgray 3px solid;
+  border-bottom: lightgray 3px solid;
+  max-width: 60rem;
+  display: flex;
+  flex-flow: column;
+  height: 100%;
+  border-radius: 15px;
+}
+hr {
+  margin: 1rem;
+}
+.icon {
+  display: inline-block;
+  height: 80px;
+  margin-bottom: 10px;
+}
+
+.button {
+  /* columns */
+  margin: 0;
+  padding: 0;
+  height: 103px;
+  background: white;
+  color: black;
+  font-size: 1rem;
+  border-bottom: rgb(236, 236, 236) 3px solid;
+  transition: border-bottom 0.3s, color 0.3s;
+}
+.button:hover {
+  color: rgb(155, 155, 155);
+  border-bottom: rgb(90, 90, 90) 3px solid;
+}
+#buttontext {
+  display: inline-block;
+  height: 80px;
+  width: 80px;
+  margin: 10px;
+  vertical-align: middle;
+}
+
+.imgdoctor {
+  background-image: url("./1.png");
+}
+.imgpharmacy {
+  background-image: url("./2.png");
+}
+.imglab {
+  background-image: url("./3.png");
+}
+
+.alert {
+  margin: 2rem 2rem;
+}
+/* </style> */
+
+
+
+
+
+
+
+
+/* <style scoped> */
+body,
+html,
+#root,
+#temp {
+  /* initiation */
+  margin: 0;
+  padding: 0;
+  height:100%;
+}
+
+.nav {
+  /* row */
+  text-align: center;
+  position: relative;
+  height: 80px;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  margin: 0;
+  padding: 0;
+}
+
+#container {
+  /* rootdiv */
+  background: white;
+  margin: 0 auto;
+  border-right: lightgray 3px solid;
+  border-left: lightgray 3px solid;
+  border-bottom: lightgray 3px solid;
+  max-width: 60rem;
+  display:flex;
+  flex-flow:column;
+  height:100%;
+  border-radius:15px;
+}
+
+.icon {
+  display: inline-block;
+  height: 80px;
+  margin-bottom: 10px;
+}
+
+.button {
+  /* columns */
+  margin: 0;
+  padding: 0;
+  height: 103px;
+  background: white;
+  color: black;
+  font-size: 1rem;
+  border-bottom: rgb(236, 236, 236) 3px solid;
+  transition: border-bottom 0.3s, color 0.3s;
+}
+.button:hover {
+  color: rgb(155, 155, 155);
+  border-bottom: rgb(90, 90, 90) 3px solid;
+}
+#buttontext {
+  display: inline-block;
+  height: 80px;
+  width: 80px;
+  margin: 10px;
+  vertical-align: middle;
+}
+
+
+.imgdoctor {
+  background-image: url("./1.png");
+}
+.imgpharmacy {
+  background-image: url("./2.png");
+}
+.imglab {
+  background-image: url("./3.png");
+}
+
+
+.alert {
+  margin: 2rem 2rem;
+}
+/* </style> */
